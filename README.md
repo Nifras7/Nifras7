@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # ⚡ Mohamed Nifras
@@ -6,10 +7,20 @@
 
 **Building intelligent systems that transform business data into decisions.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nifras7-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Nifras7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge\&logo=vercel\&logoColor=white)](https://nifras.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-nifras-808117230/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mohamednifras2808@gmail.com)
+<p>
+  <a href="https://github.com/Nifras7">
+    <img src="https://img.shields.io/badge/GitHub-Nifras7-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://nifras.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-nifras-808117230/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mohamednifras2808@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 </div>
 
@@ -35,55 +46,46 @@ focus:
   - Intelligent Business Systems
 
 mission: Build practical AI products that solve real-world problems.
-```
+````
 
 ---
 
 ## `> system_status`
 
-```text
-╭──────────────────────────────────────────────────────╮
-│ STATUS        ● BUILDING                             │
-│                                                      │
-│ CURRENT       DARE Runtime Engine                    │
-│ FOCUS         AI Infrastructure and LLM Systems      │
-│ EXPLORING     CUDA · Agents · Distributed Systems    │
-│ AVAILABLE     AI and Data Opportunities              │
-╰──────────────────────────────────────────────────────╯
-```
+| Field               | Current status                          |
+| ------------------- | --------------------------------------- |
+| **Status**          | 🟢 Building                             |
+| **Current project** | DARE Runtime Engine                     |
+| **Primary focus**   | AI Infrastructure and LLM Systems       |
+| **Exploring**       | CUDA, AI Agents and Distributed Systems |
+| **Availability**    | Open to AI and Data opportunities       |
 
 ---
 
 ## `> featured_projects`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🧠 DARE Runtime Engine
 
-A conceptual adaptive runtime that profiles AI workloads and selects the most suitable execution device.
+A conceptual adaptive runtime designed to profile AI workloads and select the most suitable execution device.
 
-**Core idea**
+**Core pipeline**
 
-`Workload → Profiler → Decision Engine → CPU / GPU / NPU`
+`AI Workload → Profiler → Decision Engine → CPU / GPU / NPU`
 
-**Focus**
+**Key areas**
 
 * Heterogeneous computing
-* Runtime optimization
+* Runtime optimisation
 * Hardware-aware scheduling
 * AI infrastructure
 
-[View repository](YOUR_DARE_REPOSITORY_URL)
+[View project documentation](https://github.com/Nifras7?tab=repositories)
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 🛒 AI Retail Analytics
 
-An AI-powered analytics platform for exploring sales, customer, and inventory data using natural-language queries.
+An AI-powered analytics platform for exploring sales, customer and inventory data using natural-language queries.
 
 **Pipeline**
 
@@ -93,16 +95,12 @@ An AI-powered analytics platform for exploring sales, customer, and inventory da
 
 * Natural-language analytics
 * KPI dashboards
-* AI-generated insights
+* AI-generated business insights
 * Sales forecasting
 
 [View repository](https://github.com/Nifras7/AI_Powered_Retail_Analytics)
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 🤖 AI Hiring Assistant
 
@@ -115,15 +113,13 @@ A resume-analysis platform that compares candidate profiles with job description
 **Features**
 
 * Resume parsing
-* Skill-gap analysis
 * Candidate scoring
+* Skill-gap analysis
 * Job-description matching
 
 [View repository](https://github.com/Nifras7/AI-hiring-Assistant)
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 📈 Sales Forecasting
 
@@ -131,43 +127,37 @@ A machine-learning pipeline for predicting future sales using historical data an
 
 **Pipeline**
 
-`Historical Data → Feature Engineering → Model → Forecast`
+`Historical Data → Feature Engineering → ML Model → Forecast`
 
 **Features**
 
-* Lag-based features
-* Trend analysis
+* Lag-based feature engineering
 * Demand prediction
-* Business visualizations
+* Trend analysis
+* Business visualisations
 
 [View repository](https://github.com/Nifras7/Sales_Forecasting)
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 👥 Customer Behaviour Analysis
 
-A retail analytics project focused on customer segmentation, purchasing patterns, and business performance.
+A retail analytics project focused on customer segmentation, purchasing patterns and business performance.
 
-**Tools**
+**Technology**
 
-`Python · SQL · Power BI · Pandas`
+`Python · SQL · Pandas · Power BI`
 
 **Outcomes**
 
 * Customer segmentation
 * Retention insights
-* KPI analysis
-* Purchasing-pattern discovery
+* KPI reporting
+* Purchasing-pattern analysis
 
 [View repository](https://github.com/Nifras7/Customer_Behavior_Analysis)
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 💧 HydroSentry
 
@@ -179,16 +169,12 @@ An IoT-based intelligent water-management platform for monitoring consumption an
 
 **Features**
 
-* Real-time monitoring
+* Real-time water monitoring
 * Usage-limit tracking
 * Automated valve control
 * Cloud data logging
 
-[Explore my repositories](https://github.com/Nifras7?tab=repositories)
-
-</td>
-</tr>
-</table>
+[Explore all repositories](https://github.com/Nifras7?tab=repositories)
 
 ---
 
@@ -197,7 +183,7 @@ An IoT-based intelligent water-management platform for monitoring consumption an
 ### Artificial Intelligence
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-111827?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=flat-square)
+![Large Language Models](https://img.shields.io/badge/LLMs-111827?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
@@ -225,53 +211,33 @@ An IoT-based intelligent water-management platform for monitoring consumption an
 
 ## `> architecture_mindset`
 
-```text
-                    ┌──────────────────┐
-                    │   User Problem   │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │ Data and Context │
-                    └────────┬─────────┘
-                             │
-                             ▼
-              ┌──────────────────────────────┐
-              │ AI / ML / LLM Decision Layer │
-              └──────────────┬───────────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │ API and Services │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │ Business Impact  │
-                    └──────────────────┘
+```mermaid
+flowchart TD
+    A[User Problem] --> B[Data and Context]
+    B --> C[AI, ML or LLM Layer]
+    C --> D[API and Services]
+    D --> E[Business Impact]
 ```
 
 ---
 
 ## `> current_research`
 
-```text
-01  AI Infrastructure
-02  Heterogeneous Computing
-03  Large Language Model Systems
-04  Retrieval-Augmented Generation
-05  Agentic AI
-06  Distributed Systems
-07  Runtime Optimization
-08  AI for Business Intelligence
-```
+* AI Infrastructure
+* Heterogeneous Computing
+* Large Language Model Systems
+* Retrieval-Augmented Generation
+* Agentic AI
+* Distributed Systems
+* Runtime Optimisation
+* AI for Business Intelligence
 
 ---
 
 ## `> development_journey`
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[Data Analytics] --> B[Machine Learning]
     B --> C[Deep Learning]
     C --> D[LLM Applications]
@@ -281,45 +247,47 @@ flowchart LR
     G --> H[DARE Runtime]
 ```
 
+---
 
 ## `> engineering_principles`
 
-```text
-Build for a real problem.
-Design before implementation.
-Measure before optimization.
-Document every important decision.
-Prefer working systems over impressive demos.
-Use AI to amplify human decision-making.
-```
+> Build for a real problem.
+> Design before implementation.
+> Measure before optimisation.
+> Document important decisions.
+> Prefer useful systems over impressive demos.
+> Use AI to amplify human decision-making.
 
 ---
 
 ## `> current_direction`
 
-```text
-AI Applications          ███████████████████░  95%
-Machine Learning         ██████████████████░░  90%
-Data Engineering         ████████████████░░░░  80%
-LLM and RAG Systems      █████████████████░░░  85%
-Cloud Architecture       ██████████████░░░░░░  70%
-AI Infrastructure        ████████████░░░░░░░░  60%
-```
+| Area                | Current level      |
+| ------------------- | ------------------ |
+| AI Applications     | Advanced           |
+| Machine Learning    | Advanced           |
+| LLM and RAG Systems | Strong             |
+| Data Engineering    | Strong             |
+| Cloud Architecture  | Developing         |
+| AI Infrastructure   | Actively exploring |
 
 ---
 
 ## `> vision`
 
-> Build intelligent software that helps businesses understand data, automate decisions, and operate more efficiently.
+> Build intelligent software that helps businesses understand data, automate decisions and operate more efficiently.
 
-My long-term goal is to create practical AI products that combine strong engineering, useful analytics, and measurable business value.
+My long-term goal is to create practical AI products that combine strong engineering, useful analytics and measurable business value.
 
 ---
 
 <div align="center">
 
-### Let us build intelligent systems that create real-world impact.
+### Building intelligent systems that create real-world impact.
 
-[Explore Projects](https://github.com/Nifras7?tab=repositories) · [View Portfolio](https://nifras.netlify.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/mohamed-nifras-808117230/)
+[Explore Projects](https://github.com/Nifras7?tab=repositories) ·
+[View Portfolio](https://nifras.netlify.app/) ·
+[Connect on LinkedIn](https://www.linkedin.com/in/mohamed-nifras-808117230/)
 
 </div>
+```
