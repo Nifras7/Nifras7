@@ -1,179 +1,325 @@
 <div align="center">
 
-# Mohamed Nifras
+# ⚡ Mohamed Nifras
 
-<a href="https://www.linkedin.com/in/mohamed-nifras-808117230" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:mohamednifras2808@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/MohamedNifras/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-</a>
-<img src="https://img.shields.io/badge/Location-India-success?style=flat-square"/>
+### AI Engineer · Data Scientist · AI Systems Builder
 
-<br/>
+**Building intelligent systems that transform business data into decisions.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=B.Tech+in+AI+%26+Data+Science;Data+Analyst+%40+BDreamz+Global+Solutions;Building+ML+%2B+RAG+Powered+Analytics+Pipelines;Python+%7C+SQL+%7C+AWS+%7C+Power+BI+%7C+LangChain" alt="Typing SVG" />
+[![GitHub](https://img.shields.io/badge/GitHub-Nifras7-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Nifras7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge\&logo=vercel\&logoColor=white)](https://nifras.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-nifras-808117230/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mohamednifras2808@gmail.com)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## `> whoami`
 
-```python
-class MohamedNifras:
-    def __init__(self):
-        self.name = "Mohamed Nifras"
-        self.location = "Chennai, India"
-        self.degree = "B.Tech, Artificial Intelligence & Data Science"
-        self.role = "Data Analyst Intern @ BDreamz Global Solutions"
+```yaml
+name: Mohamed Nifras
+degree: B.Tech in Artificial Intelligence and Data Science
+location: India
 
-        self.stack = {
-            "languages": ["Python", "SQL", "PL/SQL"],
-            "ml_ai": ["Scikit-Learn", "TensorFlow", "PyTorch", "LangChain", "RAG"],
-            "data_viz": ["Power BI", "Tableau", "Pandas", "NumPy", "Streamlit"],
-            "cloud_data_eng": ["AWS S3", "AWS Glue", "Athena", "Lambda",
-                                "Snowflake", "PySpark"],
-            "databases": ["PostgreSQL", "MongoDB"]
-        }
+roles:
+  - AI Engineer
+  - Data Scientist
+  - Data Analyst
 
-        self.currently_learning = ["Flask", "FastAPI", "Docker", "AWS (Solutions Architect)"]
-        self.fun_fact = "I once built a RAG chatbot that replaced a team's manual SQL reporting 📊🤖"
+focus:
+  - Large Language Models
+  - Retrieval-Augmented Generation
+  - AI Infrastructure
+  - Data Engineering
+  - Intelligent Business Systems
 
-    def motto(self):
-        return "Turn raw data into decisions that matter."
-
-
-me = MohamedNifras()
-print(me.motto())
+mission: Build practical AI products that solve real-world problems.
 ```
 
 ---
 
-### 🛠️ Tech Stack
+## `> system_status`
 
-**Languages & Databases**
+```text
+╭──────────────────────────────────────────────────────╮
+│ STATUS        ● BUILDING                             │
+│                                                     │
+│ CURRENT       DARE Runtime Engine                    │
+│ FOCUS         AI Infrastructure and LLM Systems      │
+│ EXPLORING     CUDA · Agents · Distributed Systems    │
+│ AVAILABLE     AI and Data Opportunities              │
+╰──────────────────────────────────────────────────────╯
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+---
 
-**Machine Learning & AI**
+## `> featured_projects`
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Data & Visualization**
+### 🧠 DARE Runtime Engine
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+A conceptual adaptive runtime that profiles AI workloads and selects the most suitable execution device.
 
-**Cloud & Data Engineering**
+**Core idea**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+`Workload → Profiler → Decision Engine → CPU / GPU / NPU`
+
+**Focus**
+
+* Heterogeneous computing
+* Runtime optimization
+* Hardware-aware scheduling
+* AI infrastructure
+
+[View repository](YOUR_DARE_REPOSITORY_URL)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 AI Retail Analytics
+
+An AI-powered analytics platform for exploring sales, customer, and inventory data using natural-language queries.
+
+**Pipeline**
+
+`Retail Data → SQL → LangChain → LLM → Dashboard`
+
+**Features**
+
+* Natural-language analytics
+* KPI dashboards
+* AI-generated insights
+* Sales forecasting
+
+[View repository](https://github.com/Nifras7/AI_Powered_Retail_Analytics)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Hiring Assistant
+
+A resume-analysis platform that compares candidate profiles with job descriptions using embeddings and semantic search.
+
+**Pipeline**
+
+`Resume → Embeddings → FAISS → Retriever → LLM`
+
+**Features**
+
+* Resume parsing
+* Skill-gap analysis
+* Candidate scoring
+* Job-description matching
+
+[View repository](https://github.com/Nifras7/AI-hiring-Assistant)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 Sales Forecasting
+
+A machine-learning pipeline for predicting future sales using historical data and time-based features.
+
+**Pipeline**
+
+`Historical Data → Feature Engineering → Model → Forecast`
+
+**Features**
+
+* Lag-based features
+* Trend analysis
+* Demand prediction
+* Business visualizations
+
+[View repository](https://github.com/Nifras7/Sales_Forecasting)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👥 Customer Behaviour Analysis
+
+A retail analytics project focused on customer segmentation, purchasing patterns, and business performance.
 
 **Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+`Python · SQL · Power BI · Pandas`
+
+**Outcomes**
+
+* Customer segmentation
+* Retention insights
+* KPI analysis
+* Purchasing-pattern discovery
+
+[View repository](https://github.com/Nifras7/Customer_Behavior_Analysis)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💧 HydroSentry
+
+An IoT-based intelligent water-management platform for monitoring consumption and controlling water flow.
+
+**Pipeline**
+
+`Flow Sensor → Arduino → ESP8266 → Firebase → Dashboard`
+
+**Features**
+
+* Real-time monitoring
+* Usage-limit tracking
+* Automated valve control
+* Cloud data logging
+
+[Explore my repositories](https://github.com/Nifras7?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+## `> technical_stack`
+
+### Artificial Intelligence
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-111827?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+
+### Engineering and Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-111827?style=flat-square)
+
+### Data and Cloud
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
+
+---
+
+## `> architecture_mindset`
+
+```text
+                    ┌──────────────────┐
+                    │   User Problem   │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ Data and Context │
+                    └────────┬─────────┘
+                             │
+                             ▼
+              ┌──────────────────────────────┐
+              │ AI / ML / LLM Decision Layer │
+              └──────────────┬───────────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ API and Services │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ Business Impact  │
+                    └──────────────────┘
+```
+
+---
+
+## `> current_research`
+
+```text
+01  AI Infrastructure
+02  Heterogeneous Computing
+03  Large Language Model Systems
+04  Retrieval-Augmented Generation
+05  Agentic AI
+06  Distributed Systems
+07  Runtime Optimization
+08  AI for Business Intelligence
+```
+
+---
+
+## `> development_journey`
+
+```mermaid
+flowchart LR
+    A[Data Analytics] --> B[Machine Learning]
+    B --> C[Deep Learning]
+    C --> D[LLM Applications]
+    D --> E[RAG Systems]
+    E --> F[AI Agents]
+    F --> G[AI Infrastructure]
+    G --> H[DARE Runtime]
+```
+
+
+## `> engineering_principles`
+
+```text
+Build for a real problem.
+Design before implementation.
+Measure before optimization.
+Document every important decision.
+Prefer working systems over impressive demos.
+Use AI to amplify human decision-making.
+```
+
+---
+
+## `> current_direction`
+
+```text
+AI Applications          ███████████████████░  95%
+Machine Learning         ██████████████████░░  90%
+Data Engineering         ████████████████░░░░  80%
+LLM and RAG Systems      █████████████████░░░  85%
+Cloud Architecture       ██████████████░░░░░░  70%
+AI Infrastructure        ████████████░░░░░░░░  60%
+```
+
+---
+
+## `> vision`
+
+> Build intelligent software that helps businesses understand data, automate decisions, and operate more efficiently.
+
+My long-term goal is to create practical AI products that combine strong engineering, useful analytics, and measurable business value.
+
+---
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nifras7&theme=tokyonight&hide_border=true" width="48%"/>
+### Let us build intelligent systems that create real-world impact.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nifras7&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-### 💼 Work Experience
-
-<details>
-<summary><b>Data Analyst Intern — BDreamz Global Solutions Pvt Ltd | Chennai, India (01/2026 – 06/2026)</b></summary>
-<br>
-
-- Performed exploratory data analysis (EDA) and statistical analysis on large datasets to identify trends and generate actionable insights for stakeholders.
-- Collected, cleaned, and transformed data using Python, SQL, and Excel, building reliable pipelines for downstream analysis and reporting.
-- Built a Retrieval-Augmented Generation (RAG) chatbot integrating LangChain and vector search to enable natural-language data querying.
-- Developed Power BI dashboards and automated reporting workflows; wrote SQL queries for data extraction, transformation, and validation, ensuring data quality and accuracy.
-
-</details>
-
-<details>
-<summary><b>Data Analytics Program — Besant Technologies, Chennai (06/2025 – 12/2025)</b></summary>
-<br>
-
-- Completed a 6-month intensive program covering SQL, Python, Power BI, Tableau, Excel, and EDA.
-- Delivered 5+ capstone projects across retail, finance, and healthcare domains.
-- Applied advanced SQL (Joins, CTEs, Window Functions), data visualization, and dashboard development techniques.
-
-</details>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Description | Impact |
-|---|---|---|---|
-| **[AI-Powered Retail Analytics RAG Chatbot](https://github.com/Nifras7/AI_Powered_Retail_Analytics)** | LangChain, PostgreSQL, Vector Embeddings, Streamlit, Python | RAG chatbot enabling natural-language querying of sales & inventory data, removing dependency on manual SQL reporting | Sub-2s avg query response on 100,000+ records · ~40% reduction in ad hoc reporting requests |
-| **[Cloud-Based Retail Data Pipeline](https://github.com/Nifras7/Cloud-Based-Retail-Data-Pipeline)** | AWS S3, PySpark, Snowflake, Power BI | End-to-end ETL pipeline transforming retail data-lake data into a Snowflake warehouse for downstream analytics | Production-ready ETL feeding analysis-ready data into BI dashboards |
-| **[Customer Behavior Analysis & Segmentation Model](https://github.com/Nifras7/Customer_Behavior_Analysis)** | Python, SQL, Power BI, Pandas, Scikit-Learn | RFM-based segmentation model analyzing transactional data to uncover purchasing patterns and CLV | 50,000+ transactions analyzed · 5 distinct behavioral segments identified |
-
-</div>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-
-| Category | Detail |
-|---|---|
-| 🎓 Education | B.Tech, AI & Data Science — CGPA 7.7/10 |
-| 📜 Certification | Data Analytics Program, Besant Technologies (6-month intensive) |
-| 💻 LeetCode | [@MohamedNifras](https://leetcode.com/u/MohamedNifras/) |
-| 📈 Project Capstones | 5+ delivered across retail, finance & healthcare during training |
-
-</div>
-
----
-
-### 🎓 Education
-
-**Bachelor of Technology — Artificial Intelligence and Data Science**
-Syed Ammal Engineering College, Ramanathapuram, India | 2021 – 2025
-CGPA: 7.7 / 10 · Coursework: Machine Learning, Data Mining, Big Data Analytics, DBMS, Statistics
-
-### 📚 Currently Learning
-
-`Flask` · `FastAPI` · `Docker` · `AWS Solutions Architect` · `MongoDB` (applied projects)
-
----
-
----
+[Explore Projects](https://github.com/Nifras7?tab=repositories) · [View Portfolio](https://nifras.netlify.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/mohamed-nifras-808117230/)
 
 </div>
