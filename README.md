@@ -44,7 +44,7 @@ mission: Build practical AI products that solve real-world problems.
 ```text
 ╭──────────────────────────────────────────────────────╮
 │ STATUS        ● BUILDING                             │
-│                                                    m │
+│                                                      │
 │ CURRENT       DARE Runtime Engine                    │
 │ FOCUS         AI Infrastructure and LLM Systems      │
 │ EXPLORING     CUDA · Agents · Distributed Systems    │
